@@ -16,13 +16,12 @@
 }
 
 .experience-image2{
-    width: 100%;
+    width: 200%;
     overflow: hidden;
-    border-radius: 16px;
 }
 
 .experience-image2 img{
-    width: 100%;
+    width: 200%;
     height: auto;
     display: block;
 }
