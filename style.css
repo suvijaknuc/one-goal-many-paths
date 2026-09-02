@@ -17,15 +17,13 @@
 
 .experience-image2{
     width: 100%;
-    aspect-ratio: 20 / 9;
     overflow: hidden;
 }
 
 .experience-image2 img{
     width: 100%;
-    height: 100%;
+    height: auto;
     display: block;
-    object-fit: cover;
 }
 
 /* Continuous system loop */
